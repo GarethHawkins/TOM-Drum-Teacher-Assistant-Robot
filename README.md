@@ -10,6 +10,6 @@ TOM is a robot drum teacher assistant prototype that is capable of playing drums
 
 ### EUREKA Robotics Lab, Cardiff School of Technologies
 
-### Cardiff Metropoliation University
+### Cardiff Metropolitan University
 
 ### Supervisor: Dr Esyin Chew
